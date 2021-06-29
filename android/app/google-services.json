@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "659150429807",
+    "project_id": "rishabh-soft",
+    "storage_bucket": "rishabh-soft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659150429807:android:8226b9149f3cd5d6aab79a",
+        "android_client_info": {
+          "package_name": "com.rishabh.feedback_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659150429807-3vg5s80j4gtmia17ftarm3pph534mjdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg3_4KunevOyiH9DFX-E8IAvRgxEVfe7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659150429807-3vg5s80j4gtmia17ftarm3pph534mjdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659150429807-25sq2qb2m125m7milgv93pgmb11a8j0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rishabh.feedbackApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

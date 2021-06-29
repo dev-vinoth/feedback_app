@@ -1,0 +1,17 @@
+{
+  "pageEntryEnterMobileNo": "Please Enter Mobile No.",
+  "pageEntryMobileNo" : "Mobile No *",
+  "pageEntryEnterValidNumber" : "Enter valid Mobile No.",
+  "navBarTitleFeedback" : "Feedback",
+  "navBarTitleAddFeedback" : "Add Feedback",
+  "pageAddFeedbackTitle": "Title *",
+  "pageAddFeedbackEnterTitle": "Please Enter Title",
+  "pageAddFeedbackDescription": "Description *",
+  "pageAddFeedbackEnterDescription": "Please Enter Description",
+  "pageAddFeedbackReporterName": "Reporter Name",
+  "pageAddFeedbackEnterReporterName": "Please Reporter Name",
+  "pageAddFeedbackAnonymous": "Anonymous",
+  "pageAddFeedbackSelectCategory": "Select Category",
+  "pageAddFeedbackCategory": "Category",
+  "pageAddFeedbackPost": "POST"
+}
